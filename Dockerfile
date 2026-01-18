@@ -1,5 +1,5 @@
 # Environment for HackRF HIL testing with Jenkins CI
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 USER root
 
 # Copy usb hub script from Jenkins' container
